@@ -1,32 +1,15 @@
----
-title: "HelloWorld"
-author: "Andres Villa"
-date: "February 14, 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-## This is a markdown file
+If you had just joined the kaggle
+If you are starting from zero, you will get everything in my previous post.
+1. Everything needs to know before Data Science
+https://www.kaggle.com/getting-started/191220
+2.Machine Learning basics
+https://www.kaggle.com/getting-started/191390
+3.Titanic Survival Project Solution for new learners
+https://www.kaggle.com/vik2012kvs/titanic-survivals-project
+4. Built a Chatbot in 9 Lines
+https://www.kaggle.com/getting-started/191218
+5. Built a face Recognition app in 9 Lines
+https://www.kaggle.com/vik2012kvs/tutorial-face-recogination-in-9-lines
+6.Interview Questions
+https://www.kaggle.com/questions-and-answers/191039
+I wish you will get some confidence after going through the above 6 links
